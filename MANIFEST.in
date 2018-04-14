@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include pivot_table *.css
+recursive-include pivot_table *.csv
+recursive-include pivot_table *.html
+recursive-include pivot_table *.ico
+recursive-include pivot_table *.js
+recursive-include pivot_table *.json
+recursive-include pivot_table *.md
+recursive-include pivot_table *.png
+recursive-include pivot_table *.py
+recursive-include pivot_table *.svg
+recursive-include pivot_table *.txt
+recursive-exclude pivot_table *.pyc

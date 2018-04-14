@@ -1,0 +1,5 @@
+{
+	"pivot_table/js/pivot_table.min.js": [
+        "public/js/query_report_pivot_table.js"
+    ]
+}
