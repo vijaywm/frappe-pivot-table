@@ -1,4 +1,6 @@
-## Pivot Tables in Query reports
+## Pivot Tables in Query reports (Work in progress)
+
+### jquery UI datepicker conflicts with frappe the datepicker, forms with Date controls in them will break 
 
 Render pivots inside query reports using [PivotTable.js](https://pivottable.js.org/examples/)
 
